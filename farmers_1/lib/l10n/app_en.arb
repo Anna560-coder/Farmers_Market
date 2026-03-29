@@ -1,0 +1,429 @@
+{
+  "@@locale": "en",
+  "appTitle": "Farmers App",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "home": "Home",
+  "@home": {
+    "description": "Home tab label"
+  },
+  "favorite": "Favorite",
+  "@favorite": {
+    "description": "Favorite tab label"
+  },
+  "profile": "Profile",
+  "@profile": {
+    "description": "Profile tab label"
+  },
+  "tasks": "Tasks",
+  "@tasks": {
+    "description": "Tasks tab label"
+  },
+  "ai": "AI",
+  "@ai": {
+    "description": "AI tab label"
+  },
+  "weatherUpdates": "Weather Updates",
+  "@weatherUpdates": {
+    "description": "Weather Updates tab label"
+  },
+  "order": "Order",
+  "@order": {
+    "description": "Order menu item"
+  },
+  "paymentMethod": "Payment Method",
+  "@paymentMethod": {
+    "description": "Payment Method menu item"
+  },
+  "notifications": "Notifications",
+  "@notifications": {
+    "description": "Notifications menu item"
+  },
+  "aboutUs": "About Us",
+  "@aboutUs": {
+    "description": "About Us menu item"
+  },
+  "logOut": "Log Out",
+  "@logOut": {
+    "description": "Log Out menu item"
+  },
+  "language": "Language",
+  "@language": {
+    "description": "Language selection label"
+  },
+  "selectLanguage": "Select Language",
+  "@selectLanguage": {
+    "description": "Language selection dropdown title"
+  },
+  "english": "English",
+  "@english": {
+    "description": "English language option"
+  },
+  "sesotho": "Sesotho",
+  "@sesotho": {
+    "description": "Sesotho language option"
+  },
+  "afrikaans": "Afrikaans",
+  "@afrikaans": {
+    "description": "Afrikaans language option"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings menu item"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "Email field label"
+  },
+  "password": "Password",
+  "@password": {
+    "description": "Password field label"
+  },
+  "name": "Name",
+  "@name": {
+    "description": "Name field label"
+  },
+  "confirmPassword": "Confirm Password",
+  "@confirmPassword": {
+    "description": "Confirm Password field label"
+  },
+  "selectRole": "Select Role",
+  "@selectRole": {
+    "description": "Select Role dropdown label"
+  },
+  "admin": "Admin",
+  "@admin": {
+    "description": "Admin role option"
+  },
+  "user": "User",
+  "@user": {
+    "description": "User role option"
+  },
+  "login": "Login",
+  "@login": {
+    "description": "Login button text"
+  },
+  "signup": "Signup",
+  "@signup": {
+    "description": "Signup button text"
+  },
+  "dontHaveAccount": "Don't have an account? ",
+  "@dontHaveAccount": {
+    "description": "Don't have account text"
+  },
+  "signupHere": "Signup here",
+  "@signupHere": {
+    "description": "Signup here link text"
+  },
+  "alreadyHaveAccount": "Already have an account? ",
+  "@alreadyHaveAccount": {
+    "description": "Already have account text"
+  },
+  "loginHere": "Login here",
+  "@loginHere": {
+    "description": "Login here link text"
+  },
+  "emailRequired": "Email is required",
+  "@emailRequired": {
+    "description": "Email required validation message"
+  },
+  "validEmail": "Enter a valid email",
+  "@validEmail": {
+    "description": "Valid email validation message"
+  },
+  "passwordRequired": "Password is required",
+  "@passwordRequired": {
+    "description": "Password required validation message"
+  },
+  "passwordMinLength": "Password must be at least 6 characters",
+  "@passwordMinLength": {
+    "description": "Password minimum length validation message"
+  },
+  "nameRequired": "Name is required",
+  "@nameRequired": {
+    "description": "Name required validation message"
+  },
+  "confirmPasswordRequired": "Please confirm your password",
+  "@confirmPasswordRequired": {
+    "description": "Confirm password required validation message"
+  },
+  "passwordsDoNotMatch": "Passwords do not match",
+  "@passwordsDoNotMatch": {
+    "description": "Passwords do not match validation message"
+  },
+  "accountNotRole": "Your account is not {role}",
+  "@accountNotRole": {
+    "description": "Account role mismatch message",
+    "placeholders": {
+      "role": {
+        "type": "String",
+        "example": "Admin"
+      }
+    }
+  },
+  "signupSuccessful": "Signup Successful! Now Login",
+  "@signupSuccessful": {
+    "description": "Signup successful message"
+  },
+  "signupFailed": "Signup Failed: {error}",
+  "@signupFailed": {
+    "description": "Signup failed message",
+    "placeholders": {
+      "error": {
+        "type": "String",
+        "example": "Email already exists"
+      }
+    }
+  },
+  "error": "Error: {message}",
+  "@error": {
+    "description": "Generic error message",
+    "placeholders": {
+      "message": {
+        "type": "String",
+        "example": "Network error"
+      }
+    }
+  },
+  "aiFeatures": "AI Features",
+  "@aiFeatures": {
+    "description": "AI Features page title"
+  },
+  "textToImage": "Text ➝ Image",
+  "@textToImage": {
+    "description": "Text to Image feature title"
+  },
+  "generateImageFromText": "Generate image from text prompts",
+  "@generateImageFromText": {
+    "description": "Text to Image feature subtitle"
+  },
+  "aiChatbot": "AI Chatbot",
+  "@aiChatbot": {
+    "description": "AI Chatbot feature title"
+  },
+  "converseWithGemini": "Converse with Gemini AI",
+  "@converseWithGemini": {
+    "description": "AI Chatbot feature subtitle"
+  },
+  "imagePrompt": "Image + Prompt",
+  "@imagePrompt": {
+    "description": "Image + Prompt feature title"
+  },
+  "askAiAboutImages": "Ask AI about your images",
+  "@askAiAboutImages": {
+    "description": "Image + Prompt feature subtitle"
+  },
+  "chatbotScreen": "Chatbot Screen",
+  "@chatbotScreen": {
+    "description": "Chatbot screen title"
+  },
+  "textToImageTitle": "Text to Image",
+  "@textToImageTitle": {
+    "description": "Text to Image screen title"
+  },
+  "enterYourQuery": "Enter your query",
+  "@enterYourQuery": {
+    "description": "Enter query placeholder text"
+  },
+  "generate": "Generate",
+  "@generate": {
+    "description": "Generate button text"
+  },
+  "mostAskedQuestions": "Most Asked Questions",
+  "@mostAskedQuestions": {
+    "description": "Most asked questions section title"
+  },
+  "bestCropsSeason": "What are the best crops to grow this season?",
+  "@bestCropsSeason": {
+    "description": "Best crops season question"
+  },
+  "preventPests": "How do I prevent pests from damaging my crops?",
+  "@preventPests": {
+    "description": "Prevent pests question"
+  },
+  "storeMaize": "What is the best way to store harvested maize?",
+  "@storeMaize": {
+    "description": "Store maize question"
+  },
+  "improveSoil": "How can I improve soil fertility naturally?",
+  "@improveSoil": {
+    "description": "Improve soil question"
+  },
+  "fertilizersVegetables": "Which fertilizers are recommended for vegetables?",
+  "@fertilizersVegetables": {
+    "description": "Fertilizers vegetables question"
+  },
+  "livestockWinter": "How do I take care of livestock during winter?",
+  "@livestockWinter": {
+    "description": "Livestock winter question"
+  },
+  "plantTomatoes": "When is the best time to plant tomatoes?",
+  "@plantTomatoes": {
+    "description": "Plant tomatoes question"
+  },
+  "waterCrops": "How often should I water my crops?",
+  "@waterCrops": {
+    "description": "Water crops question"
+  },
+  "couldNotUnderstand": "I couldn't understand that.",
+  "@couldNotUnderstand": {
+    "description": "AI couldn't understand message"
+  },
+  "enterQuestion": "Enter a question here",
+  "@enterQuestion": {
+    "description": "Enter question placeholder text"
+  },
+  "farmProfile": "Farm Profile",
+  "@farmProfile": {
+    "description": "Farm Profile page title"
+  },
+  "myFarmProfile": "My Farm Profile",
+  "@myFarmProfile": {
+    "description": "My Farm Profile page title"
+  },
+  "farmDetails": "Farm Details",
+  "@farmDetails": {
+    "description": "Farm Details section title"
+  },
+  "contactInformation": "Contact Information",
+  "@contactInformation": {
+    "description": "Contact Information section title"
+  },
+  "farmName": "Farm Name",
+  "@farmName": {
+    "description": "Farm Name field label"
+  },
+  "location": "Location",
+  "@location": {
+    "description": "Location field label"
+  },
+  "size": "Size",
+  "@size": {
+    "description": "Size field label"
+  },
+  "crops": "Crops",
+  "@crops": {
+    "description": "Crops field label"
+  },
+  "livestock": "Livestock",
+  "@livestock": {
+    "description": "Livestock field label"
+  },
+  "ownerName": "Owner Name",
+  "@ownerName": {
+    "description": "Owner Name field label"
+  },
+  "phone": "Phone",
+  "@phone": {
+    "description": "Phone field label"
+  },
+  "addFarmProfile": "Add Farm Profile",
+  "@addFarmProfile": {
+    "description": "Add Farm Profile button text"
+  },
+  "editFarmProfile": "Edit Farm Profile",
+  "@editFarmProfile": {
+    "description": "Edit Farm Profile button text"
+  },
+  "saveFarmProfile": "Save Farm Profile",
+  "@saveFarmProfile": {
+    "description": "Save Farm Profile button text"
+  },
+  "deleteFarmProfile": "Delete Farm Profile",
+  "@deleteFarmProfile": {
+    "description": "Delete Farm Profile button text"
+  },
+  "farmNameRequired": "Farm name is required",
+  "@farmNameRequired": {
+    "description": "Farm name required validation message"
+  },
+  "locationRequired": "Location is required",
+  "@locationRequired": {
+    "description": "Location required validation message"
+  },
+  "sizeRequired": "Farm size is required",
+  "@sizeRequired": {
+    "description": "Farm size required validation message"
+  },
+  "ownerNameRequired": "Owner name is required",
+  "@ownerNameRequired": {
+    "description": "Owner name required validation message"
+  },
+  "phoneRequired": "Phone number is required",
+  "@phoneRequired": {
+    "description": "Phone number required validation message"
+  },
+  "validEmailRequired": "Please enter a valid email address",
+  "@validEmailRequired": {
+    "description": "Valid email required validation message"
+  },
+  "validPhoneRequired": "Please enter a valid phone number",
+  "@validPhoneRequired": {
+    "description": "Valid phone number required validation message"
+  },
+  "farmProfileCreated": "Farm profile created successfully",
+  "@farmProfileCreated": {
+    "description": "Farm profile created success message"
+  },
+  "farmProfileUpdated": "Farm profile updated successfully",
+  "@farmProfileUpdated": {
+    "description": "Farm profile updated success message"
+  },
+  "farmProfileDeleted": "Farm profile deleted successfully",
+  "@farmProfileDeleted": {
+    "description": "Farm profile deleted success message"
+  },
+  "farmProfileError": "Error managing farm profile",
+  "@farmProfileError": {
+    "description": "Farm profile error message"
+  },
+  "confirmDelete": "Are you sure you want to delete this farm profile?",
+  "@confirmDelete": {
+    "description": "Confirm delete farm profile message"
+  },
+  "yes": "Yes",
+  "@yes": {
+    "description": "Yes button text"
+  },
+  "no": "No",
+  "@no": {
+    "description": "No button text"
+  },
+  "addCrop": "Add Crop",
+  "@addCrop": {
+    "description": "Add Crop button text"
+  },
+  "addLivestock": "Add Livestock",
+  "@addLivestock": {
+    "description": "Add Livestock button text"
+  },
+  "enterCropName": "Enter crop name",
+  "@enterCropName": {
+    "description": "Enter crop name placeholder"
+  },
+  "enterLivestockName": "Enter livestock name",
+  "@enterLivestockName": {
+    "description": "Enter livestock name placeholder"
+  },
+  "remove": "Remove",
+  "@remove": {
+    "description": "Remove button text"
+  },
+  "gettingLocation": "Getting your location...",
+  "@gettingLocation": {
+    "description": "Getting location message"
+  },
+  "locationDetected": "Location detected successfully!",
+  "@locationDetected": {
+    "description": "Location detected success message"
+  },
+  "locationError": "Could not detect location. Please enter manually.",
+  "@locationError": {
+    "description": "Location detection error message"
+  }
+}
+
+
+
+
